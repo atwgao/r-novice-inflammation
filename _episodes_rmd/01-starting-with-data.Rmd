@@ -2,6 +2,7 @@
 title: "Analyzing Patient Data"
 teaching: 45
 exercises: 0
+Let us check first if this thing works
 questions:
 - "How do I read data into R?"
 - "How do I assign variables?"
